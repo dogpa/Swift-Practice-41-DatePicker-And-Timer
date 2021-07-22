@@ -24,6 +24,7 @@
 		5D99963926A9413300299AA8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D99963C26A9413300299AA8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5D99963E26A9413300299AA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D99964426A943A600299AA8 /* HanyiSentyDiary.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = HanyiSentyDiary.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 		5D99962F26A9412F00299AA8 /* Swift Practice # 40 DatePicker And Timer */ = {
 			isa = PBXGroup;
 			children = (
+				5D99964426A943A600299AA8 /* HanyiSentyDiary.ttf */,
 				5D99963026A9412F00299AA8 /* AppDelegate.swift */,
 				5D99963226A9412F00299AA8 /* SceneDelegate.swift */,
 				5D99963426A9412F00299AA8 /* ViewController.swift */,
